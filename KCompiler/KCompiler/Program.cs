@@ -38,6 +38,11 @@ namespace KCompiler
                 {
                     case 'h': PrintHelp(); break;
                     case 'w': cli.WarnAsErr = true; break;
+                    case 'd': cli.DebugLogging = true; break;
+
+                    default:
+
+                        break;
                 }
             }
         }
