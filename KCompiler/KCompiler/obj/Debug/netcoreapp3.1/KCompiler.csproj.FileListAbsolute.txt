@@ -1,0 +1,11 @@
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\KCompiler.exe
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\KCompiler.deps.json
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\KCompiler.runtimeconfig.json
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\KCompiler.runtimeconfig.dev.json
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\KCompiler.dll
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\KCompiler.pdb
+D:\Dev\K\KCompiler\KCompiler\obj\Debug\netcoreapp3.1\KCompiler.csprojAssemblyReference.cache
+D:\Dev\K\KCompiler\KCompiler\obj\Debug\netcoreapp3.1\KCompiler.AssemblyInfoInputs.cache
+D:\Dev\K\KCompiler\KCompiler\obj\Debug\netcoreapp3.1\KCompiler.AssemblyInfo.cs
+D:\Dev\K\KCompiler\KCompiler\obj\Debug\netcoreapp3.1\KCompiler.dll
+D:\Dev\K\KCompiler\KCompiler\obj\Debug\netcoreapp3.1\KCompiler.pdb

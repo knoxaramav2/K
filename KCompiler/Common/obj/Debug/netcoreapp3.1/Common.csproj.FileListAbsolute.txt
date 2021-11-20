@@ -1,0 +1,8 @@
+D:\Dev\K\KCompiler\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\Dev\K\KCompiler\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\Dev\K\KCompiler\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Dev\K\KCompiler\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+D:\Dev\K\KCompiler\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\Dev\K\KCompiler\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\Dev\K\KCompiler\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\Dev\K\KCompiler\Common\obj\Debug\netcoreapp3.1\Common.pdb

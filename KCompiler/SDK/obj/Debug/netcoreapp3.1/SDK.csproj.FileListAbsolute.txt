@@ -1,0 +1,8 @@
+D:\Dev\K\KCompiler\SDK\bin\Debug\netcoreapp3.1\SDK.deps.json
+D:\Dev\K\KCompiler\SDK\bin\Debug\netcoreapp3.1\SDK.dll
+D:\Dev\K\KCompiler\SDK\bin\Debug\netcoreapp3.1\SDK.pdb
+D:\Dev\K\KCompiler\SDK\obj\Debug\netcoreapp3.1\SDK.csprojAssemblyReference.cache
+D:\Dev\K\KCompiler\SDK\obj\Debug\netcoreapp3.1\SDK.AssemblyInfoInputs.cache
+D:\Dev\K\KCompiler\SDK\obj\Debug\netcoreapp3.1\SDK.AssemblyInfo.cs
+D:\Dev\K\KCompiler\SDK\obj\Debug\netcoreapp3.1\SDK.dll
+D:\Dev\K\KCompiler\SDK\obj\Debug\netcoreapp3.1\SDK.pdb

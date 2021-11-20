@@ -1,0 +1,8 @@
+D:\Dev\K\KCompiler\IntCode\bin\Debug\netcoreapp3.1\IntCode.deps.json
+D:\Dev\K\KCompiler\IntCode\bin\Debug\netcoreapp3.1\IntCode.dll
+D:\Dev\K\KCompiler\IntCode\bin\Debug\netcoreapp3.1\IntCode.pdb
+D:\Dev\K\KCompiler\IntCode\obj\Debug\netcoreapp3.1\IntCode.csprojAssemblyReference.cache
+D:\Dev\K\KCompiler\IntCode\obj\Debug\netcoreapp3.1\IntCode.AssemblyInfoInputs.cache
+D:\Dev\K\KCompiler\IntCode\obj\Debug\netcoreapp3.1\IntCode.AssemblyInfo.cs
+D:\Dev\K\KCompiler\IntCode\obj\Debug\netcoreapp3.1\IntCode.dll
+D:\Dev\K\KCompiler\IntCode\obj\Debug\netcoreapp3.1\IntCode.pdb

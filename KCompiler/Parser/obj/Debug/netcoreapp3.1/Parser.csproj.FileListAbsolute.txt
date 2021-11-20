@@ -1,0 +1,8 @@
+D:\Dev\K\KCompiler\Parser\bin\Debug\netcoreapp3.1\Parser.deps.json
+D:\Dev\K\KCompiler\Parser\bin\Debug\netcoreapp3.1\Parser.dll
+D:\Dev\K\KCompiler\Parser\bin\Debug\netcoreapp3.1\Parser.pdb
+D:\Dev\K\KCompiler\Parser\obj\Debug\netcoreapp3.1\Parser.csprojAssemblyReference.cache
+D:\Dev\K\KCompiler\Parser\obj\Debug\netcoreapp3.1\Parser.AssemblyInfoInputs.cache
+D:\Dev\K\KCompiler\Parser\obj\Debug\netcoreapp3.1\Parser.AssemblyInfo.cs
+D:\Dev\K\KCompiler\Parser\obj\Debug\netcoreapp3.1\Parser.dll
+D:\Dev\K\KCompiler\Parser\obj\Debug\netcoreapp3.1\Parser.pdb
