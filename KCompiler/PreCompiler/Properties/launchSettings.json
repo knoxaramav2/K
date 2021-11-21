@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PreCompiler": {
+      "commandName": "Project",
+      "commandLineArgs": "--precomptemp --src=src/test.k"
+    }
+  }
+}

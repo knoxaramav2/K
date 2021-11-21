@@ -11,6 +11,30 @@
         "runtime": {
           "bin/placeholder/Common.dll": {}
         }
+      },
+      "PreCompiler/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Common": "1.0.0",
+          "SDK": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PreCompiler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PreCompiler.dll": {}
+        }
+      },
+      "SDK/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SDK.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SDK.dll": {}
+        }
       }
     }
   },
@@ -19,11 +43,22 @@
       "type": "project",
       "path": "../Common/Common.csproj",
       "msbuildProject": "../Common/Common.csproj"
+    },
+    "PreCompiler/1.0.0": {
+      "type": "project",
+      "path": "../PreCompiler/PreCompiler.csproj",
+      "msbuildProject": "../PreCompiler/PreCompiler.csproj"
+    },
+    "SDK/1.0.0": {
+      "type": "project",
+      "path": "../SDK/SDK.csproj",
+      "msbuildProject": "../SDK/SDK.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Common >= 1.0.0"
+      "Common >= 1.0.0",
+      "PreCompiler >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -61,6 +96,9 @@
           "projectReferences": {
             "D:\\Dev\\K\\KCompiler\\Common\\Common.csproj": {
               "projectPath": "D:\\Dev\\K\\KCompiler\\Common\\Common.csproj"
+            },
+            "D:\\Dev\\K\\KCompiler\\PreCompiler\\PreCompiler.csproj": {
+              "projectPath": "D:\\Dev\\K\\KCompiler\\PreCompiler\\PreCompiler.csproj"
             }
           }
         }

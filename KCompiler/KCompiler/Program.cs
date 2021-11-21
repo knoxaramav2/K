@@ -1,5 +1,5 @@
 ﻿using Common;
-using System;
+using PreCompiler;
 
 namespace KCompiler
 {
@@ -8,6 +8,15 @@ namespace KCompiler
         static void Main(string[] args)
         {
             var cli = ParseCli(args);
+
+            //Create DI objects
+            ILogger debugLogger = new DbgLog(cli.DebugLogging);
+            ILogger diagLogger = new DiagLog("compiler.log");
+
+            IPreCompiler preCompiler = new PreCompiler.PreCompiler(
+                cli.PrecompTempFiles,
+                debugLogger, diagLogger
+                );
         }
 
         static CliOptions ParseCli(string[] args)
@@ -62,7 +71,8 @@ namespace KCompiler
                 case "arch": cli.CpuTarget = argVal; break;
                 case "b64": cli.X64 = true; break;
                 case "b32": cli.X64 = false; break;
-
+                case "precomptemp": cli.PrecompTempFiles = true; break;
+                case "src": cli.SrcFile = argVal; break;
                 default:
 
                     break;

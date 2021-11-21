@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Text;
 
 namespace Common
 {
@@ -69,9 +68,9 @@ namespace Common
     {
         private string _logPath;
         private List<string> _buffer = new List<string>();
-        private int _bufferMax = 10;
+        private int _bufferMax;
 
-        public DiagLog(string logName, int bufferMax)
+        public DiagLog(string logName, int bufferMax = 10)
         {
             _logPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, logName);
             _bufferMax = bufferMax;

@@ -7,14 +7,52 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "KCompiler/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "PreCompiler": "1.0.0"
+        },
         "runtime": {
           "KCompiler.dll": {}
+        }
+      },
+      "Common/1.0.0": {
+        "runtime": {
+          "Common.dll": {}
+        }
+      },
+      "PreCompiler/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "SDK": "1.0.0"
+        },
+        "runtime": {
+          "PreCompiler.dll": {}
+        }
+      },
+      "SDK/1.0.0": {
+        "runtime": {
+          "SDK.dll": {}
         }
       }
     }
   },
   "libraries": {
     "KCompiler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PreCompiler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDK/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

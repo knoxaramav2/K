@@ -1,0 +1,13 @@
+D:\Dev\K\KCompiler\PreCompiler\obj\Debug\netcoreapp3.1\PreCompiler.csprojAssemblyReference.cache
+D:\Dev\K\KCompiler\PreCompiler\obj\Debug\netcoreapp3.1\PreCompiler.AssemblyInfoInputs.cache
+D:\Dev\K\KCompiler\PreCompiler\obj\Debug\netcoreapp3.1\PreCompiler.AssemblyInfo.cs
+D:\Dev\K\KCompiler\PreCompiler\bin\Debug\netcoreapp3.1\PreCompiler.deps.json
+D:\Dev\K\KCompiler\PreCompiler\bin\Debug\netcoreapp3.1\PreCompiler.dll
+D:\Dev\K\KCompiler\PreCompiler\bin\Debug\netcoreapp3.1\PreCompiler.pdb
+D:\Dev\K\KCompiler\PreCompiler\bin\Debug\netcoreapp3.1\Common.dll
+D:\Dev\K\KCompiler\PreCompiler\bin\Debug\netcoreapp3.1\SDK.dll
+D:\Dev\K\KCompiler\PreCompiler\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Dev\K\KCompiler\PreCompiler\bin\Debug\netcoreapp3.1\SDK.pdb
+D:\Dev\K\KCompiler\PreCompiler\obj\Debug\netcoreapp3.1\PreCompiler.csproj.CopyComplete
+D:\Dev\K\KCompiler\PreCompiler\obj\Debug\netcoreapp3.1\PreCompiler.dll
+D:\Dev\K\KCompiler\PreCompiler\obj\Debug\netcoreapp3.1\PreCompiler.pdb

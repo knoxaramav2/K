@@ -9,3 +9,11 @@ D:\Dev\K\KCompiler\KCompiler\obj\Debug\netcoreapp3.1\KCompiler.AssemblyInfoInput
 D:\Dev\K\KCompiler\KCompiler\obj\Debug\netcoreapp3.1\KCompiler.AssemblyInfo.cs
 D:\Dev\K\KCompiler\KCompiler\obj\Debug\netcoreapp3.1\KCompiler.dll
 D:\Dev\K\KCompiler\KCompiler\obj\Debug\netcoreapp3.1\KCompiler.pdb
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\src\test.k
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\Common.dll
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\PreCompiler.dll
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\SDK.dll
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\PreCompiler.pdb
+D:\Dev\K\KCompiler\KCompiler\bin\Debug\netcoreapp3.1\SDK.pdb
+D:\Dev\K\KCompiler\KCompiler\obj\Debug\netcoreapp3.1\KCompiler.csproj.CopyComplete

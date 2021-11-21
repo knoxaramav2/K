@@ -3,20 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCompiler", "KCompiler\KCompiler.csproj", "{DDC5DBB6-6C17-48F9-8E1D-9DADD1AA5A5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KCompiler", "KCompiler\KCompiler.csproj", "{DDC5DBB6-6C17-48F9-8E1D-9DADD1AA5A5A}"
 	ProjectSection(ProjectDependencies) = postProject
 		{1A360F0E-CAC6-4A2D-A81C-E00C7EF596C1} = {1A360F0E-CAC6-4A2D-A81C-E00C7EF596C1}
 		{2E43FC34-0448-4E8B-B575-B4CC71665B9D} = {2E43FC34-0448-4E8B-B575-B4CC71665B9D}
 		{753F585B-532A-4DC5-B4CA-20E4EB172EF7} = {753F585B-532A-4DC5-B4CA-20E4EB172EF7}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDK", "SDK\SDK.csproj", "{33D84EB1-6206-4163-9C92-35A2B9908969}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SDK", "SDK\SDK.csproj", "{33D84EB1-6206-4163-9C92-35A2B9908969}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser", "Parser\Parser.csproj", "{1A360F0E-CAC6-4A2D-A81C-E00C7EF596C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parser", "Parser\Parser.csproj", "{1A360F0E-CAC6-4A2D-A81C-E00C7EF596C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntCode", "IntCode\IntCode.csproj", "{2E43FC34-0448-4E8B-B575-B4CC71665B9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntCode", "IntCode\IntCode.csproj", "{2E43FC34-0448-4E8B-B575-B4CC71665B9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{753F585B-532A-4DC5-B4CA-20E4EB172EF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{753F585B-532A-4DC5-B4CA-20E4EB172EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreCompiler", "PreCompiler\PreCompiler.csproj", "{7E35B9B0-46A2-4A09-9828-E13F5E492AED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +46,10 @@ Global
 		{753F585B-532A-4DC5-B4CA-20E4EB172EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{753F585B-532A-4DC5-B4CA-20E4EB172EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{753F585B-532A-4DC5-B4CA-20E4EB172EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E35B9B0-46A2-4A09-9828-E13F5E492AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E35B9B0-46A2-4A09-9828-E13F5E492AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E35B9B0-46A2-4A09-9828-E13F5E492AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E35B9B0-46A2-4A09-9828-E13F5E492AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

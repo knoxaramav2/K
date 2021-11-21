@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace IntCode
+﻿namespace IntCode
 {
     public class Class1
     {
