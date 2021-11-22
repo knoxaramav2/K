@@ -17,6 +17,20 @@ namespace KCompiler
                 cli.PrecompTempFiles,
                 debugLogger, diagLogger
                 );
+
+
+            //Start compilation
+            preCompiler.Run(cli.SrcFile);
+
+
+
+            //Finish
+            string msg = "Finished with exit code 0";//TODO
+
+            debugLogger.Write(msg);
+            diagLogger.Write(msg);
+
+            (diagLogger as DiagLog).Flush();
         }
 
         static CliOptions ParseCli(string[] args)
@@ -63,7 +77,7 @@ namespace KCompiler
             string argVal;
 
             var split = arg.Split("=");
-            argCom = split[0].ToLower()[2..split[0].Length];
+            argCom = split[0];
             argVal = split.Length == 2 ? split[1].ToLower() : string.Empty;
 
             switch (argCom)
